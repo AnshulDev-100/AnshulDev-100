@@ -38,27 +38,6 @@
 
 ---
 
-## 🔥 Streak Stats:
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=AnshulDev-100&theme=radical&hide_border=false)
-
----
-
-## 📈 Contribution Graph:
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=AnshulDev-100&theme=react-dark&hide_border=true&area=true)
-
----
-
-## 🎵 Coding Soundtrack:
-
-When I code, you'll find me listening to:
-- 🎧 Lo-fi beats for deep focus sessions
-- 🎸 Rock for debugging marathons
-- 🎹 Classical for architecture design
-
----
-
 ## 🌟 Featured Projects:
 
 <div align="center">
@@ -81,10 +60,6 @@ When I code, you'll find me listening to:
 ---
 
 <div align="center">
-
-### 👀 Profile Views
-
-[![](https://visitcount.itsvg.in/api?id=AnshulDev-100&icon=2&color=6)](https://visitcount.itsvg.in)
 
 ### ⭐ If you find my work interesting, consider giving a star to my repos!
 
