@@ -35,18 +35,6 @@
 + Contributing to open-source AI projects
 - Procrastinating on documentation (working on it! 📝)
 ```
-
----
-
-## 🌟 Featured Projects:
-
-<div align="center">
-
-[![SpudHealth AI](https://github-readme-stats.vercel.app/api/pin/?username=AnshulDev-100&repo=SpudHealth_AI&theme=radical)](https://github.com/AnshulDev-100/SpudHealth_AI)
-[![Reddit Unmasked](https://github-readme-stats.vercel.app/api/pin/?username=AnshulDev-100&repo=Reddit_Unmasked&theme=radical)](https://github.com/AnshulDev-100/Reddit_Unmasked)
-
-</div>
-
 ---
 
 ## 📫 Let's Connect & Build Something Amazing!
